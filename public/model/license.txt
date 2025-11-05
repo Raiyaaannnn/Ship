@@ -1,0 +1,11 @@
+Model Information:
+* title:	Skrzynia skarbów
+* source:	https://sketchfab.com/3d-models/skrzynia-skarbow-9ac51ad9f76741f5930d74f3c9674c6d
+* author:	3dUVpro (https://sketchfab.com/3dUVpro)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Skrzynia skarbów" (https://sketchfab.com/3d-models/skrzynia-skarbow-9ac51ad9f76741f5930d74f3c9674c6d) by 3dUVpro (https://sketchfab.com/3dUVpro) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
